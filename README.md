@@ -29,7 +29,8 @@ To install and run the app locally, follow these steps:
 
 2. Install the dependencies:
 `cd mapbox-event-finder`
-`npm install dotenv`
+`npm install dotenv`  
+> Note: need to add the full list of dependencies*
 
 
 3. Create a `.env` file and add your Mapbox API key and MongoDB connection string:
