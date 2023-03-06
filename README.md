@@ -15,10 +15,7 @@ This web app allows computer science students to easily find upcoming events rel
 
 - Display events on a Mapbox map
 - Filter events based on location, date, and event type
-- Add new events to the map
-- Edit or delete existing events
-- User authentication to secure event adding and editing
-- Responsive design for desktop and mobile devices
+- Allow users to hover map markers and visit event website to view more details
 
 ## Installation
 
