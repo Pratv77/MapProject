@@ -29,7 +29,7 @@ To install and run the app locally, follow these steps:
 
 2. Install the dependencies:
 `cd mapbox-event-finder`
-`npm install dotenv`  
+`npm install dotenv express axios moment nodemon`  
 > Note: need to add the full list of dependencies*
 
 
